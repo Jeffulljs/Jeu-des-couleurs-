@@ -6,7 +6,7 @@ Le jeu répète la même couleur et le même son, puis ajoute au hasard une nouv
 
 inspiré du jeu Simon.
 
-![view](images/view.jpg "jeu des couleurs view")
+![view](images/view.JPG "jeu des couleurs view")
 
 ## Pour commencer
 
