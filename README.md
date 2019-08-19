@@ -4,6 +4,8 @@ Le jeu des couleurs est un jeu de memoire. Le joueur doit alors appuyer sur la t
 
 Le jeu répète la même couleur et le même son, puis ajoute au hasard une nouvelle couleur. Le joueur doit reproduire cette nouvelle séquence. Chaque fois que le joueur reproduit correctement la séquence, le jeu ajoute une nouvelle couleur.
 
+inspiré du jeu Simon.
+
 ## Pour commencer
 
 Appuyer sur la touche A, pour commencer a jouer...
