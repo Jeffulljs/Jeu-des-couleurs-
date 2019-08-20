@@ -20,7 +20,7 @@ Appuyer sur la touche A, pour commencer a jouer...
 Il suffit de télécharger le dossier, le decompresser, ouvrir le dossier puis cliquez sur index html pour commencer a jouer.
 
 
-## Langages utilisées
+## Langages utilisés
 
 * Html
 * CSS
